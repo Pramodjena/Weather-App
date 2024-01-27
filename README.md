@@ -13,8 +13,8 @@ Before we dive in, make sure you have the following installed on your machine:
 ## Clone the Repository
 
 1. Install all the dependencies (`npm install`)
-2. Run the Project (`npm run dev`)
-
+2. Run the Project locally (`npm run dev`)
+3.  [Diploy Link](https://weather-forecasting-online.netlify.app/)
 
 ## Tech Used 
 
